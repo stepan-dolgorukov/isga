@@ -1,0 +1,9 @@
+# Local Claude Code config
+.claude/
+
+# LibreOffice lock files
+.~lock.*#
+
+# Editor / OS junk
+*.swp
+.DS_Store
